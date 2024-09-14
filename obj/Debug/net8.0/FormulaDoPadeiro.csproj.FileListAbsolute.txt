@@ -1,0 +1,14 @@
+c:\Users\user\FormulaDoPadeiro\bin\Debug\net8.0\FormulaDoPadeiro.exe
+C:\Users\user\FormulaDoPadeiro\bin\Debug\net8.0\FormulaDoPadeiro.deps.json
+C:\Users\user\FormulaDoPadeiro\bin\Debug\net8.0\FormulaDoPadeiro.runtimeconfig.json
+c:\Users\user\FormulaDoPadeiro\bin\Debug\net8.0\FormulaDoPadeiro.dll
+c:\Users\user\FormulaDoPadeiro\bin\Debug\net8.0\FormulaDoPadeiro.pdb
+c:\Users\user\FormulaDoPadeiro\obj\Debug\net8.0\FormulaDoPadeiro.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\user\FormulaDoPadeiro\obj\Debug\net8.0\FormulaDoPadeiro.AssemblyInfoInputs.cache
+c:\Users\user\FormulaDoPadeiro\obj\Debug\net8.0\FormulaDoPadeiro.AssemblyInfo.cs
+c:\Users\user\FormulaDoPadeiro\obj\Debug\net8.0\FormulaDoPadeiro.csproj.CoreCompileInputs.cache
+c:\Users\user\FormulaDoPadeiro\obj\Debug\net8.0\FormulaDoPadeiro.dll
+c:\Users\user\FormulaDoPadeiro\obj\Debug\net8.0\refint\FormulaDoPadeiro.dll
+c:\Users\user\FormulaDoPadeiro\obj\Debug\net8.0\FormulaDoPadeiro.pdb
+C:\Users\user\FormulaDoPadeiro\obj\Debug\net8.0\FormulaDoPadeiro.genruntimeconfig.cache
+C:\Users\user\FormulaDoPadeiro\obj\Debug\net8.0\ref\FormulaDoPadeiro.dll
